@@ -5,7 +5,11 @@
 ### `missing xcrun at...`
 ```
 > xcode-select --install
+```
 
+### pass arguments via `cargo run`
+```
+> cargo run -- some-pattern some-file
 ```
 
 ## References
